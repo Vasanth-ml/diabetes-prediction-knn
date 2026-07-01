@@ -26,4 +26,15 @@ K-Nearest Neighbors (KNN)
 - Seaborn
 
 ## Steps Performed
-1. Data Loading and
+1. Data Loading and Exploration
+2. Data Cleaning and Preprocessing
+3. Feature Scaling (StandardScaler)
+4. Train Test Split (80/20)
+5. Model Training (KNN)
+6. Model Evaluation (Accuracy, Confusion Matrix)
+7. Visualization
+
+## Key Findings
+- KNN achieved strong accuracy on diabetes prediction
+- Feature scaling was critical for KNN performance
+- Glucose level was most influential feature
